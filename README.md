@@ -1,1 +1,1 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="5%"> Teerapt Boonchuaylaew
