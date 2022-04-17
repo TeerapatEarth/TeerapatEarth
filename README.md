@@ -1,8 +1,8 @@
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeerapatEarth" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeerapatEarth" width="100%">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=TeerapatEarth" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeerapatEarth" width="100%">
 </div>
 
 # Contact
